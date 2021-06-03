@@ -63,6 +63,7 @@ header h1 {
 
 .container {
 	display: grid;
+	-webkit-tap-highlight-color: transparent;
 	width: 35em;
 	cursor: pointer;
 	box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
